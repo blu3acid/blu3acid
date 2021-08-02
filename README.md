@@ -6,8 +6,7 @@ My current favourite language is go and I like to programm Arduino sketches. If 
 * I’m currently working on https://github.com/uyuni-project/inter-server-sync (as mmuschner) and sometimes a bit of webdev with go
 * I'm currently learning go, postgresql, protobuf, webdev, security
 * I speak german and english (maybe soon also dutch)
-* ![image](https://user-images.githubusercontent.com/62885007/127933064-c11e2450-8c20-46ac-8f95-c0dd11c9792a.png)
-How to reach me: michael.muschner@mailbox.org
+* How to reach me: michael.muschner@mailbox.org
 
 ## My skills
 
