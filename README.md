@@ -1,16 +1,14 @@
-### Hi there 👋
+### GREETINGS FELLOW HUMAN
 
-<!--
-**blu3acid/blu3acid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Michael. After I finished my apprenticeship to become an electrical engineer at the german airforce I started a second one at SUSE in Nürnberg to become a programmer and to get better with linux.
+My current favourite language is go and I like to programm Arduino sketches. If it really has to be I may do some python (or even C++) but I try to avoid it. 
 
-Here are some ideas to get you started:
+## My skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Linux 
+* Electrical stuff and arduino
+* A bit of networking
+* Go
+* Python
+* Git 
+* Postgresql
